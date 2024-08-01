@@ -1,4 +1,4 @@
-# Docker Configuration Report Script
+# Server Configuration Report Script
 
 ## Overview
 
